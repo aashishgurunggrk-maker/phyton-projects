@@ -1,0 +1,6 @@
+num = int(input("please enter a number "))
+print( num + 2 )
+print( num - 2 )
+print( num / 2 )
+print( num % 2 )
+print( num * 2 )
